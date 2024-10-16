@@ -5,6 +5,7 @@ These projects include:
 3) Static Code Analysis. Tools used: Bandit, Pylint, Pyflakes, Wapiti.
 4) Network Binary Exploitation and System exploitation targeting Windows 7 and Metasploitable 2 systems. The objective was to gain unauthorized access to these systems, or deny service to users.
    Exploits conducted:
+   
      Metasploitable 2: Exploit through FTP (Open Port 21), and also through a brute force password attack to gain entry.
      Windows 7: Established Reverse TCP connection, and also conducted a DoS attack on Windows 7.
      NOTE: these exploits were conducted on virtual environments using VMWare.
